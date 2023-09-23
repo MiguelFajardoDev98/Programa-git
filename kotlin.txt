@@ -1,7 +1,7 @@
-Esta es la primera versión del documento
+Esta es la segunda versión del documento
 
-Nombre de usuario:
-Correo electrónico:
+Nombre de usuario: MiguelFajardoDev98
+Correo electrónico: fajardocossio@gmail.com
 
 Evidencia de aprendizaje: Herramientas de versionamiento (GIT) instalada y configurada GA7-220501096-AA1-EV05- Evidencia en Grupo
 
